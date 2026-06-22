@@ -2,8 +2,6 @@
 Academic projects from SNHU CS 300 focused on algorithm design, data structures, runtime analysis, and C++ software development.
 # CS 300: Data Structures and Algorithms
 
-# CS 300: Data Structures and Algorithms
-
 ## Overview
 
 This repository contains projects completed for CS 300: Data Structures and Algorithms at Southern New Hampshire University. The work focuses on analyzing algorithm performance, comparing data structures, and developing efficient solutions for storing, sorting, and retrieving information using C++.
